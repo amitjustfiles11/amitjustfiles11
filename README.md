@@ -28,7 +28,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:00BFFF&height=250&section=header&text=Amit%20Tiwari&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Developer&descAlignY=55"/>
+</p>
 
 
 
