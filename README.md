@@ -26,14 +26,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amitjustfiles11&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:00BFFF&height=250&section=header&text=Amit%20Tiwari&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Developer&descAlignY=55"/>
-</p>
-
-
-
 
 <p align="center">
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
