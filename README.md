@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=250&section=header&text=Amit%20&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%20|%20Developer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=250&section=header&text=Amit%20&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%20|%20Developer&descAlignY=55"/>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00CC33&center=true&vCenter=true&width=900&lines=Hello+World!;I+am+Amit;Programer;C%2B%2B+Developer;Web+Development+Learner;Welcome+to+my+GitHub+Profile"/>
