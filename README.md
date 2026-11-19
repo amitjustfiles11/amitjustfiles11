@@ -34,3 +34,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=amitjustfiles11&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
 </p>
+<p align="center">
+<img src="https://count.getloli.com/@:amitjustfiles11" alt="Profile views" />
+</p>
